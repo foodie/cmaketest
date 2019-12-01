@@ -1,0 +1,3 @@
+/Users/macy/Documents/project/project-code/cmake/cmaketest/5-use-lib/CMakeFiles/rebuild_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/5-use-lib/CMakeFiles/edit_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/5-use-lib/CMakeFiles/TestLibrary.dir

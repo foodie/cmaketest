@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/testStudent.dir/Student.cpp.o CMakeFiles/testStudent.dir/mainapp.cpp.o  -o testStudent 

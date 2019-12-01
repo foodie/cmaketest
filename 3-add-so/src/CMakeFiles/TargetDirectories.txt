@@ -1,0 +1,7 @@
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/install/local.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/install/strip.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/install.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/list_install_components.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/rebuild_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/edit_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/CMakeFiles/testStudent.dir

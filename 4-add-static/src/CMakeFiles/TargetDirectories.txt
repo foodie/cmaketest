@@ -1,0 +1,7 @@
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/install/local.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/install/strip.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/install.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/list_install_components.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/rebuild_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/edit_cache.dir
+/Users/macy/Documents/project/project-code/cmake/cmaketest/4-add-static/src/CMakeFiles/testStudent.dir

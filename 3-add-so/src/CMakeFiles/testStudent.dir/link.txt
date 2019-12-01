@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -O3 -DNDEBUG -dynamiclib -Wl,-headerpad_max_install_names  -o libtestStudent.dylib -install_name @rpath/libtestStudent.dylib CMakeFiles/testStudent.dir/Student.cpp.o 

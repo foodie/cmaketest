@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Student.h
+iostream
+-
+
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/Student.cpp
+Student.h
+/Users/macy/Documents/project/project-code/cmake/cmaketest/3-add-so/src/Student.h
+
